@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/desk-work-react-project-01/static/css/main.616001af.css",
-    "main.js": "/desk-work-react-project-01/static/js/main.a7adfd3a.js",
+    "main.js": "/desk-work-react-project-01/static/js/main.84619c4d.js",
     "static/js/453.fb67ec70.chunk.js": "/desk-work-react-project-01/static/js/453.fb67ec70.chunk.js",
     "static/media/baner.png": "/desk-work-react-project-01/static/media/baner.b3b5322b3b7256f659f5.png",
     "static/media/ideaoverlay.png": "/desk-work-react-project-01/static/media/ideaoverlay.10e75e8c6b5be66d294c.png",
@@ -31,11 +31,11 @@
     "static/media/slick.woff": "/desk-work-react-project-01/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/desk-work-react-project-01/index.html",
     "main.616001af.css.map": "/desk-work-react-project-01/static/css/main.616001af.css.map",
-    "main.a7adfd3a.js.map": "/desk-work-react-project-01/static/js/main.a7adfd3a.js.map",
+    "main.84619c4d.js.map": "/desk-work-react-project-01/static/js/main.84619c4d.js.map",
     "453.fb67ec70.chunk.js.map": "/desk-work-react-project-01/static/js/453.fb67ec70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.616001af.css",
-    "static/js/main.a7adfd3a.js"
+    "static/js/main.84619c4d.js"
   ]
 }
